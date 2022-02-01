@@ -1,6 +1,6 @@
 {
   "name": "next-example",
-  "version": "0.0.1",
+  "version": "0.0.0-actions-0017b77-20221102144",
   "private": true,
   "scripts": {
     "dev": "next dev",
